@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git@github.com:salesforce-marketingcloud/blocksdk.git"
   },
+  "scripts": {
+    "build": "test",
+    "test": "test",
   "main": "blocksdk.js",
   "author": "Thomas Besluau",
   "license": "BSD-3-Clause"
